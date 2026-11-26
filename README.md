@@ -10,9 +10,9 @@ Student in Cyber Security and Digital Trust · 850+ PCs managed · Casablanca
 
 <a href="mailto:Bouchariliass@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-fbefd5?style=for-the-badge&labelColor=7d0000" alt="Open to internships"></a>
 <img src="https://img.shields.io/badge/LOCATION-CASABLANCA%2C%20MOROCCO-fbefd5?style=for-the-badge&labelColor=7d0000" alt="Casablanca, Morocco">
-<a href="https://iliassbouchari.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-ILIASSBOUCHARI.GITHUB.IO-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/iliassbouchari"><img src="https://img.shields.io/badge/LINKEDIN-ILIASSBOUCHARI-fbefd5?style=for-the-badge&labelColor=7d0000" alt="LinkedIn"></a>
-<a href="https://www.credly.com/users/iliassbouchari"><img src="https://img.shields.io/badge/CREDLY-CCNA%20BADGES-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Credly CCNA badges"></a>
+<a href="https://iliassbouchari.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-ILIASSBOUCHARI.GITHUB.IO-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/iliassbouchari/"><img src="https://img.shields.io/badge/LINKEDIN-ILIASSBOUCHARI-fbefd5?style=for-the-badge&labelColor=7d0000" alt="LinkedIn"></a>
+<a href="https://www.credly.com/users/iliass-bouchari/badges/credly"><img src="https://img.shields.io/badge/CREDLY-CCNA%20BADGES-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Credly CCNA badges"></a>
 
 </div>
 
