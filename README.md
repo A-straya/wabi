@@ -81,15 +81,6 @@ Write-ups are on the [portfolio](https://iliassbouchari.github.io).
 
 </details>
 
-## Terminal
-
-```console
-iliass@casablanca:~$ whoami
-iliass bouchari: systems, networks, cybersecurity
-iliass@casablanca:~$ cat status.txt
-open to internships, hands-on, ready to start
-```
-
 ## GitHub activity
 
 <div align="center">
