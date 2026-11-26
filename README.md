@@ -10,9 +10,9 @@ Student in Cyber Security and Digital Trust · 850+ PCs managed · Casablanca
 
 <a href="mailto:Bouchariliass@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-fbefd5?style=for-the-badge&labelColor=7d0000" alt="Open to internships"></a>
 <img src="https://img.shields.io/badge/LOCATION-CASABLANCA%2C%20MOROCCO-fbefd5?style=for-the-badge&labelColor=7d0000" alt="Casablanca, Morocco">
-<a href="https://iliassbouchari.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-ILIASSBOUCHARI.GITHUB.IO-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/iliassbouchari/"><img src="https://img.shields.io/badge/LINKEDIN-ILIASSBOUCHARI-fbefd5?style=for-the-badge&labelColor=7d0000" alt="LinkedIn"></a>
-<a href="https://www.credly.com/users/iliass-bouchari/badges/credly"><img src="https://img.shields.io/badge/CREDLY-CCNA%20BADGES-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Credly CCNA badges"></a>
+<a href="https://iliassbouchari.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-ILIASSBOUCHARI.GITHUB.IO-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/iliassbouchari"><img src="https://img.shields.io/badge/LINKEDIN-ILIASSBOUCHARI-fbefd5?style=for-the-badge&labelColor=7d0000" alt="LinkedIn"></a>
+<a href="https://www.credly.com/users/iliassbouchari"><img src="https://img.shields.io/badge/CREDLY-CCNA%20BADGES-ffd98a?style=for-the-badge&labelColor=7d0000" alt="Credly CCNA badges"></a>
 
 </div>
 
@@ -20,25 +20,23 @@ Student in Cyber Security and Digital Trust · 850+ PCs managed · Casablanca
 
 ## About me
 
+<div align="center">
+<img src="wabi-idcard.svg" width="100%" alt="Identity card: Iliass Bouchari (WABI), Systems and Networks Technician, Cybersecurity, aspiring SOC analyst. B.Sc Cyber Security and Digital Trust, 850+ PCs managed at CMC, CCNA x3 and next CCNP, goal SOC analyst with Wazuh, French A2 and English B2, Casablanca, open to internships.">
+</div>
+
+<details>
+<summary>Plain-text version</summary>
+
 Student in the Bachelor's degree in Cyber Security and Digital Trust (FPSB), and a systems and networks technician. I like building and securing real infrastructure: Active Directory, Cisco networks, Fortinet firewalls and automation that saves time on the ground.
 
-- Currently managing **850+ PCs** on the CMC campus domain (Jan to Jun 2026)
--  Working with **Fortinet, Cisco and Windows Server** every day
--  Three **Cisco CCNA** levels, with verified Credly badges. Next: **CCNP**
--  Goal: **SOC analyst**, using **Wazuh** (SIEM)
--  French (A2) and English (B2)
-- Reach me: [Bouchariliass@gmail.com](mailto:Bouchariliass@gmail.com)
+- 🏫 Currently managing **850+ PCs** on the CMC campus domain (Jan to Jun 2026)
+- 🛡️ Working with **Fortinet, Cisco and Windows Server** every day
+- 🎓 Three **Cisco CCNA** levels, with verified Credly badges. Next: **CCNP**
+- 🎯 Goal: **SOC analyst**, using **Wazuh** (SIEM)
+- 🌍 French (A2) and English (B2)
+- 📫 Reach me: [Bouchariliass@gmail.com](mailto:Bouchariliass@gmail.com)
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/CISCO-CCNA%20x3-fbefd5?style=flat-square&labelColor=7d0000" alt="CCNA x3">
-<img src="https://img.shields.io/badge/NEXT-CCNP-ffd98a?style=flat-square&labelColor=7d0000" alt="Next: CCNP">
-<img src="https://img.shields.io/badge/GOAL-SOC%20ANALYST-fbefd5?style=flat-square&labelColor=7d0000" alt="Goal: SOC analyst">
-<img src="https://img.shields.io/badge/SIEM-WAZUH-ffd98a?style=flat-square&labelColor=7d0000" alt="SIEM: Wazuh">
-<img src="https://img.shields.io/badge/FRENCH-A2-fbefd5?style=flat-square&labelColor=7d0000" alt="French A2">
-<img src="https://img.shields.io/badge/ENGLISH-B2-fbefd5?style=flat-square&labelColor=7d0000" alt="English B2">
-
-</div>
+</details>
 
 ## Tech stack
 
@@ -80,6 +78,7 @@ Student in the Bachelor's degree in Cyber Security and Digital Trust (FPSB), and
 Write-ups are on the [portfolio](https://iliassbouchari.github.io).
 
 </details>
+
 
 ## GitHub activity
 
